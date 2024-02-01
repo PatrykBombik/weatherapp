@@ -4,4 +4,4 @@
 
 ### Check online -> https://weatherapppatrykbombik.netlify.app/
 
-![WeatherApp](/Users/JavaDev/Documents/GitHub/weatherapp/weatherapp.gif)
+![WeatherApp](https://github.com/PatrykBombik/weatherapp/blob/main/weatherapp.gif)
